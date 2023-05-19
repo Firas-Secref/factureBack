@@ -1,0 +1,16 @@
+2023-02-26 17:37:13,568 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-05-09 23:03:37,520 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-05-09 23:09:51,113 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-09 23:11:08,249 [Worker-2: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.app:spring-boot-security-jwt:0.0.1-SNAPSHOT @ C:\Users\benso\OneDrive\Bureau\i will try\src\main\java\com\app\controllers\pom.xml.
+2023-05-09 23:11:19,729 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-09 23:11:19,730 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\benso\OneDrive\Bureau\i will try\src\main\java\com\app\controllers\src\main\resources
+2023-05-09 23:11:19,731 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\benso\OneDrive\Bureau\i will try\src\main\java\com\app\controllers\src\main\resources
+2023-05-09 23:11:19,740 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-09 23:11:19,741 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\benso\OneDrive\Bureau\i will try\src\main\java\com\app\controllers\src\test\resources
+2023-05-09 23:11:21,666 [Worker-7: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.app:spring-boot-security-jwt:0.0.1-SNAPSHOT @ C:\Users\benso\OneDrive\Bureau\i will try\src\main\java\com\app\controllers\pom.xml.
+2023-05-09 23:11:24,351 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-09 23:11:24,352 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\benso\OneDrive\Bureau\i will try\src\main\java\com\app\controllers\src\main\resources
+2023-05-09 23:11:24,353 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\benso\OneDrive\Bureau\i will try\src\main\java\com\app\controllers\src\main\resources
+2023-05-09 23:11:24,369 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-09 23:11:24,369 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\benso\OneDrive\Bureau\i will try\src\main\java\com\app\controllers\src\test\resources
+2023-05-10 01:04:53,329 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
